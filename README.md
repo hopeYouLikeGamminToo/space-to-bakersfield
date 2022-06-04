@@ -1,4 +1,4 @@
-# space-to-baskerfield
+# space-to-bakersfield
 ## chat from client to server with socket.io
 ### how to:
 * clone repo to your local computer
