@@ -1,9 +1,0 @@
-# Streaming tmp notes for overarching project
-
-Sun Jun  5 11:30:49 PDT 2022
-
-Socket.io seems to be a preferred http connection over typical websockets (ws/wss) or webrtc.
-
-A few questions I'm confused about:
-- how does backend connect to frontend?
-- how does golang socket.io connect to a browser's frontend?
