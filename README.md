@@ -1,16 +1,10 @@
 # space-to-bakersfield
 ## summary
-This is my working repository within the org. I'll have multiple projects here, whcih all have the ultimate goal of gaining expertise to meet specific aims of the org. 
-Any sub-directory titled "proj-'#'" is simply a temp dir for learning purposes only. I will try to fill most dirs with a README.md and most source code files with comments for clear understanding for all. 
+This is a working repository within the org with the specific aim of learning the tools required to fulfill the goals of the org. 
 
-### http
-Still a bit undefined as I ramp up the projects over time. My current plan is to use this as a base for increasing my proficiency with client-to-server stuff.
+### Steps to run:
+1. Use `git clone` to clone repo locally or `git pull` from root to get most recent version.
+2. At root run `./node_modules/.bin/http-server -a localhost -p 8000 -c-1` to start the server.
+3. Go to local host link to view: http://localhost:8000
 
-### frontend
-Again, I'll define this more as I go but I am thinking here can be the base for improving js and js api knowledge -- such as experimenting with pixi, sprites, etc.
-
-### backend
-A space to experiment with backend. I'd like my focus here to be with iterations of the C programming language and Golang.
-
-### play
- Here is where I'll try to bring all of it together.
+Followed instructions from https://github.com/kittykatattack/learningPixi#setting-up 
