@@ -4,7 +4,11 @@ This is a working repository within the org with the specific aim of learning th
 
 ### Steps to run:
 1. Use `git clone` to clone repo locally or `git pull` from root to get most recent version.
-2. At root run `./node_modules/.bin/http-server -a localhost -p 8000 -c-1` to start the server.
+
+2. Start the server. At root of repo, run:
+
+	$ ./node_modules/.bin/http-server -a localhost -p 8000 -c-1 
+	
 3. Go to local host link to view: http://localhost:8000
 
 Followed instructions from https://github.com/kittykatattack/learningPixi#setting-up 
