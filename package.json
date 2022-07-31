@@ -1,13 +1,12 @@
 {
   "dependencies": {
     "http-server": "^14.1.1",
-    "pixi.js": "^6.4.2"
+    "pixi.js": "^6.5.1"
   },
   "name": "space-to-bakersfield",
   "description": "This is a working repository within the org with the specific aim of learning the tools required to fulfill the goals of the org.",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
